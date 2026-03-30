@@ -1,0 +1,2 @@
+# MushroomWar
+upload MushroomProject.ipa
